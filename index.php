@@ -23,7 +23,7 @@
         <div class="box-profile">
             <h2 class="sub-title"><span class="color-green">p</span>rofile</h2>
             <div class="item-list">
-                <img src="./img/profile.png" alt="プロフィール画像">
+                <img src="./img/証明写真.jpg" alt="プロフィール画像" width="200px">
                 <b>末谷尚希</b>
                 <p class="color-green">HTML / CSS / PHP /JavaScript / MySQL / Laravel / Figma</p>
                 <p>岐阜県養老町に住んでいます。23歳です。<br>プログラミングスクールのテックアイエスでプログラミング約6ヶ月学びました。<br>
